@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Abu Zafor</h1>
-<h3 align="center">💻 A passionate Mobile App Developer (Java and Flutter) from Bangladesh</h3>
+<h3 align="center">💻 A passionate Mobile App Developer (Flutter) from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzafor99&label=Profile%20views&color=0e75b6&style=flat" alt="abuzafor99" /> </p>
 
