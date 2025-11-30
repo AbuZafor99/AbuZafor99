@@ -1,27 +1,101 @@
-<h1 align="center">Hi 👋, I'm Md Abu Zafor</h1>
-<h3 align="center">💻 A passionate Mobile App Developer (Flutter) from Bangladesh</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="35px" />
+  
+  <h1>
+    Hi there, I'm <span style="color:#26C6DA;">Md Abu Zafor</span>
+  </h1>
+  
+  <h3 style="color:#A778FF;">Mobile App Developer (Flutter)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzafor99&label=Profile%20views&color=0e75b6&style=flat" alt="abuzafor99" /> </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFD54F&size=24&center=true&vCenter=true&width=500&height=45&lines=Mobile+App+Developer;Flutter+Enthusiast;Backend+Learner" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuzafor99" alt="abuzafor99" /></a> </p>
+---
 
-- 🔭 I’m currently working on **SoD Manager**
+### 🚀 About Me
 
-- 🌱 I’m currently learning **Java, XML (Android Development) Dart, Flutter (Cross-Platform Development) PHP, SQL (Backend & Database)**
-
-- 📫 How to reach me **zaforsadiq987@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-abu-zafor-925b15235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md abu zafor" height="30" width="40" /></a>
-<a href="https://fb.com/md abu zafor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md abu zafor" height="30" width="40" /></a>
+<p align="center">
+  I'm a passionate <b>Mobile App Developer (Flutter)</b> from <b>Bangladesh</b>. I love building cross-platform applications and exploring backend technologies. I thrive on turning ideas into reality with clean and efficient code.
+  <br/><br/>
+  - 🔭 <b>Currently working on:</b> <code>SoD Manager</code>
+  <br/>
+  - 🌱 <b>Currently learning:</b> <code>Java</code>, <code>XML (Android)</code>, <code>Dart</code>, <code>Flutter</code>, <code>PHP</code>, <code>SQL</code>
+  <br/>
+  - 👯 <b>Looking to collaborate on:</b> <code>Open Source Projects</code>
+  <br/>
+  - 📫 <b>How to reach me:</b> <a href="mailto:zaforsadiq987@gmail.com">zaforsadiq987@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abuzafor99&show_icons=true&locale=en&layout=compact" alt="abuzafor99" /></p>
+### 🏆 GitHub Trophies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuzafor99&show_icons=true&locale=en" alt="abuzafor99" /></p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AbuZafor99&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="AbuZafor99's Trophies" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuzafor99&" alt="abuzafor99" /></p>
+---
+
+### 💻 Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,html,css,php,python,mysql,git,vscode,github&perline=7" alt="My Skills"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-abu-zafor-925b15235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AbuZafor99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zaforsadiq987@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://fb.com/md abu zafor" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/AbuZafor99">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbuZafor99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=26C6DA&icon_color=A778FF&text_color=FFFFFF" alt="AbuZafor99's GitHub Stats" width="48%"/>
+  </a>
+
+  <!-- GitHub Streak -->
+  <a href="https://github.com/AbuZafor99">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuZafor99&hide_border=true&background=0D1117&stroke=A778FF&ring=26C6DA&fire=FFD54F&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=E0E0E0" alt="AbuZafor99's GitHub Streak" width="48%"/>
+  </a>
+  
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/AbuZafor99">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuZafor99&langs_count=8&layout=compact&hide_border=true&bg_color=0D1117&title_color=26C6DA&text_color=E0E0E0" alt="Top Languages"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <a href="https://github.com/AbuZafor99">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuZafor99&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=26C6DA&line=A778FF" alt="GitHub Contribution Graph"/>
+  </a>
+</p>
