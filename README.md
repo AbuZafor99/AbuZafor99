@@ -17,13 +17,13 @@
 <p align="center">
   I'm a passionate <b>Mobile App Developer (Flutter)</b> from <b>Bangladesh</b>. I love building cross-platform applications and exploring backend technologies. I thrive on turning ideas into reality with clean and efficient code.
   <br/><br/>
-  - 🔭 <b>Currently working on:</b> <code>SoD Manager</code>
+  - 🔭 <b>Currently working on:</b> <code>EarthQForecast</code>
   <br/>
   - 🌱 <b>Currently learning:</b> <code>Java</code>, <code>XML (Android)</code>, <code>Dart</code>, <code>Flutter</code>, <code>PHP</code>, <code>SQL</code>
   <br/>
   - 👯 <b>Looking to collaborate on:</b> <code>Open Source Projects</code>
   <br/>
-  - 📫 <b>How to reach me:</b> <a href="mailto:zaforsadiq987@gmail.com">zaforsadiq987@gmail.com</a>
+  - 📫 <b>How to reach me:</b> <a href="mailto:abuzafor.dev@gmail.com">zaforsadiq987@gmail.com</a>
 </p>
 
 ---
@@ -59,13 +59,13 @@
     <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:zaforsadiq987@gmail.com">
+  <a href="mailto:abuzafor.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
-  <a href="https://fb.com/md abu zafor" target="_blank">
+  <!-- &nbsp; -->
+  <!-- <a href="https://fb.com/md abu zafor" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  </a> -->
 </p>
 
 ---
