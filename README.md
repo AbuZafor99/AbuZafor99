@@ -23,7 +23,7 @@
   <br/>
   - 👯 <b>Looking to collaborate on:</b> <code>Open Source Projects</code>
   <br/>
-  - 📫 <b>How to reach me:</b> <a href="mailto:abuzafor.dev@gmail.com">zaforsadiq987@gmail.com</a>
+  - 📫 <b>How to reach me:</b> <a href="mailto:abuzafor.dev@gmail.com">abuzafor.dev@gmail.com</a>
 </p>
 
 ---
