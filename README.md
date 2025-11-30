@@ -62,10 +62,10 @@
   <a href="mailto:abuzafor.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- &nbsp; -->
-  <!-- <a href="https://fb.com/md abu zafor" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a> -->
+  &nbsp;
+  <a href="https://abuzafor.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
