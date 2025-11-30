@@ -75,7 +75,7 @@
 <div align="center">
   <!-- GitHub Stats -->
   <a href="https://github.com/AbuZafor99">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbuZafor99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=26C6DA&icon_color=A778FF&text_color=FFFFFF" alt="AbuZafor99's GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbuZafor99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=26C6DA&icon_color=A778FF&text_color=FFFFFF" alt="AbuZafor99's GitHub Stats" width="48%"/>
   </a>
 
   <!-- GitHub Streak -->
@@ -87,7 +87,7 @@
 
   <!-- Top Languages -->
   <a href="https://github.com/AbuZafor99">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuZafor99&langs_count=8&layout=compact&hide_border=true&bg_color=0D1117&title_color=26C6DA&text_color=E0E0E0" alt="Top Languages"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbuZafor99&langs_count=8&layout=compact&hide_border=true&bg_color=0D1117&title_color=26C6DA&text_color=E0E0E0" alt="Top Languages"/>
   </a>
 </div>
 
