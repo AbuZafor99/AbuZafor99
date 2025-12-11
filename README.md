@@ -7,7 +7,7 @@
   
   <h3 style="color:#A778FF;">Mobile App Developer (Flutter)</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFD54F&size=24&center=true&vCenter=true&width=500&height=45&lines=Mobile+App+Developer;Flutter+Enthusiast;Backend+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFD54F&size=24&center=true&vCenter=true&width=500&height=45&lines=Mobile+App+Developer;Flutter+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
