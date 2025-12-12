@@ -19,7 +19,7 @@
   <br/><br/>
   - 🔭 <b>Currently working on:</b> <code>EarthQForecast</code>
   <br/>
-  - 🌱 <b>Currently learning:</b> <code>Java</code>, <code>XML (Android)</code>, <code>Dart</code>, <code>Flutter</code>, <code>PHP</code>, <code>SQL</code>
+  - 🌱 <b>Currently learning:</b> <code>Dart</code>, <code>Flutter</code>, <code>PHP</code>, <code>SQL</code>
   <br/>
   - 👯 <b>Looking to collaborate on:</b> <code>Open Source Projects</code>
   <br/>
