@@ -26,14 +26,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=AbuZafor99&theme=gitdimmed&no-frame=true&margin-w=10" 
-    alt="GitHub Trophies"
-  />
-</div>
+- 🚀 Flutter & Mobile App Developer
+- 📱 Built multiple production-ready mobile applications
+- 🧩 Experience with REST APIs & backend integration
+- 🌱 Actively learning and improving every day
+- 🤝 Open to collaboration on open-source projects
+
 
 ---
 
