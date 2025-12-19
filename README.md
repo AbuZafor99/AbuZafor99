@@ -54,7 +54,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 </p>
 
-> ✅ Icons are split into multiple rows to prevent broken images.
 
 ---
 
