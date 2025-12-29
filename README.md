@@ -19,7 +19,7 @@
   I enjoy building scalable cross-platform apps and exploring backend technologies.
   <br/><br/>
   🔭 <b>Currently working on:</b> <code>EarthQForecast</code><br/>
-  🌱 <b>Currently learning:</b> <code>Dart</code>, <code>Flutter</code>, <code>PHP</code>, <code>SQL</code><br/>
+  🌱 <b>Currently learning:</b> <code>Dart</code>, <code>Flutter</code><br/>
   👯 <b>Looking to collaborate on:</b> <code>Open Source Projects</code><br/>
   📫 <b>Email:</b> <a href="mailto:abuzafor.dev@gmail.com">abuzafor.dev@gmail.com</a>
 </p>
